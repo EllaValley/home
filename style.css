@@ -65,6 +65,12 @@ button {
   border: none;
 }
 
+
+table, th, td {
+  border: 1px solid black;
+}
+
+
 button:hover {
   background: white;
   outline: 1px solid red;
@@ -97,6 +103,7 @@ button:hover {
   font-size: 0.9rem;
   opacity: 0.7;
 }
+
 
 .users {
   display: flex;

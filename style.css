@@ -66,11 +66,6 @@ button {
 }
 
 
-table, th, td {
-  border: 1px solid black;
-}
-
-
 button:hover {
   background: white;
   outline: 1px solid red;
